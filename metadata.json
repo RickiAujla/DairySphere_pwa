@@ -1,0 +1,6 @@
+{
+  "name": "DairySphere PWA SaaS",
+  "description": "Professional Dairy Management SaaS ERP System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
